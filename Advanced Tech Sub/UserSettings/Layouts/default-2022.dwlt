@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 492}
   m_MaxSize: {x: 10000, y: 10000}
@@ -121,7 +121,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 130
+  controlID: 48
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,8 +166,8 @@ MonoBehaviour:
     y: 0
     width: 1206
     height: 365
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -192,8 +192,8 @@ MonoBehaviour:
     y: 365
     width: 1206
     height: 574
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -270,8 +270,8 @@ MonoBehaviour:
     y: 0
     width: 269
     height: 939
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -705,9 +705,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 4.969806, y: 2.695991, z: 3.1650858}
+    m_Target: {x: 0.3936115, y: 5.8034143, z: -0.9297019}
     speed: 2
-    m_Value: {x: 4.969806, y: 2.695991, z: 3.1650858}
+    m_Value: {x: 0.3936115, y: 5.8034143, z: -0.9297019}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -753,9 +753,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.0140989395, y: -0.5423595, z: 0.00914878, w: -0.8400101}
+    m_Target: {x: 0.15874748, y: -0.6553004, z: -0.14355452, w: -0.72444785}
     speed: 2
-    m_Value: {x: 0.0140989395, y: 0.5423595, z: -0.009148781, w: 0.84001017}
+    m_Value: {x: 0.15874335, y: -0.65528333, z: -0.1435508, w: -0.724429}
   m_Size:
     m_Target: 5.565899
     speed: 2
@@ -821,8 +821,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
+      m_SelectedIDs: 38ddffff
+      m_LastClickedID: -8904
       m_ExpandedIDs: 28fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -892,7 +892,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/SCRIPT
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -900,15 +900,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/SCRIPT
+  - Assets
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Submission - AdvTech\AdvTech - editor
+  m_LastProjectPath: C:\throw away\AT-Submission\Advanced Tech Sub
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 70800000
-    m_LastClickedID: 32880
+    m_SelectedIDs: 5a800000
+    m_LastClickedID: 32858
     m_ExpandedIDs: 000000005a80000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
